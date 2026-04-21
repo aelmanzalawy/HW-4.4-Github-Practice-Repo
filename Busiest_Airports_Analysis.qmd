@@ -1,0 +1,19 @@
+---
+title: "Busiest Airports Analysis: 2020-2025"
+author: "Ahlya Elmanzalawy"
+date: "04-20-2026"
+date-modified: now
+date-format: "MM-DD-YYYY"
+format: pdf
+execute: 
+  echo: false
+  warning: false
+---
+
+## Busiest Airports Analysis
+
+The following section will be reviewing the busiest airports in the world. The is pulled from wikipedia, and the goal was to compare the top five busiest airports from 2020-2025. Below is a graphic comparing each year's busiest airports.
+
+![A scatter plot showing the passengers per year by the busiest airports with a general upward relationship as the years pass.](Busiest_Airport_Plot.png) 
+
+This scatter plot shows the count of passengers per year bet
